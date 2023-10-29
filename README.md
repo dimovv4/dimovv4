@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgi</h1>
-<h3 align="center">A Python Beginner. Trying to become a back-end developer.</h3>
+<h3 align="center">A Python Beginner. Trying to become a front-end developer.</h3>
 
 - 🌱 **I’m currently learning Python**
 
