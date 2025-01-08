@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgi</h1>
-<h3 align="center"> I'm at the beginning of my journey learning Python, but I'm enjoying it for now and believe that consistency will lead to becoming a successful programmer.✔👀</h3>
+<h3 align="center"> I'm at the beginning of my journey to learn Python, but I'm enjoying it for now and believe that consistency will lead to becoming a successful programmer.✔👀</h3>
 
 - 🌱 **I’m currently learning Python**
 
