@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgi</h1>
-<h3 align="center">I'm passionate about becoming a full-stack developer</h3>
+<h3 align="center">I am interested in pursuing a career as a full-stack developer.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
